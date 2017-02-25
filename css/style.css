@@ -243,7 +243,7 @@ a:active {
 }
 
 .contact-div-b {
-  background-image: url('../img/SheaBee.png');
+  background-image: url('../img/Logo.png');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50% 0%;
@@ -438,7 +438,7 @@ h4 {
   color: #48525c;
 }
 .SheaBee {
-    background: url('../img/SheaBee.png') bottom no-repeat;
+    background: url('../img/Logo.png') bottom no-repeat;
     display: inline-block;
     background-size: contain;
     height: 40vh;
