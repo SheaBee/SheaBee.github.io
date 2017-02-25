@@ -119,12 +119,7 @@ a:active {
   width: 100%;
   position: relative;
 }
-.SheaBee {
-    background: url('../img/SheaBeeSmall.png') bottom no-repeat;
-    background-size: contain;
-    height: 40vh;
-    width: 100%;
-}
+
 
 /* Navigation Bar */
 
@@ -441,4 +436,11 @@ h4 {
   line-height: 1.1;
   margin: 0 0 .5em; /* 0 0 26px */
   color: #48525c;
+}
+.SheaBee {
+    background: url('../img/SheaBee.png') bottom no-repeat;
+    display: inline-block;
+    background-size: contain;
+    height: 40vh;
+    width: 100%;
 }
