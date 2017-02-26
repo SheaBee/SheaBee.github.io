@@ -404,7 +404,7 @@ a:active {
   }
   .Hive {
   display: block;
-  height: 75vh !important;
+  height: 100vh !important;
 background: linear-gradient(
                      rgba(20,20,20, .6), 
                      rgba(20,20,20, .6)),
@@ -437,9 +437,6 @@ background: linear-gradient(
     margin-top: -200px !important;
     height: 40vh !important;
     width: 100%;
-}
-.LocalSmall {
-  font-size: .6rem;
 }
 }
 
