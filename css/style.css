@@ -434,6 +434,7 @@ background: linear-gradient(
     background: url('../img/Logo.png') bottom no-repeat;
     display: inline-block;
     background-size: contain;
+    margin-top: -200px !important;
     height: 40vh !important;
     width: 100%;
 }
