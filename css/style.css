@@ -404,7 +404,7 @@ a:active {
   }
   .Hive {
   display: block;
-  height: 100vh !important;
+  height: 85vh !important;
 background: linear-gradient(
                      rgba(20,20,20, .6), 
                      rgba(20,20,20, .6)),
@@ -434,7 +434,7 @@ background: linear-gradient(
     background: url('../img/Logo.png') bottom no-repeat;
     display: inline-block;
     background-size: contain;
-    margin-top: -200px !important;
+    margin-top: -150px !important;
     height: 40vh !important;
     width: 100%;
 }
