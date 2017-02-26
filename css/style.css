@@ -438,6 +438,9 @@ background: linear-gradient(
     height: 40vh !important;
     width: 100%;
 }
+.LocalSmall {
+  font-size: .6rem;
+}
 }
 
 
