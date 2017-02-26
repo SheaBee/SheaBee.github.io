@@ -404,7 +404,7 @@ a:active {
   }
   .Hive {
   display: block;
-  height: 50vh !important;
+  height: 75vh !important;
 background: linear-gradient(
                      rgba(20,20,20, .6), 
                      rgba(20,20,20, .6)),
@@ -413,7 +413,7 @@ background: linear-gradient(
   width: 100%;
   min-height: 50%;
   background-attachment: fixed;
-  background-size: 150%, 150% !important;
+  background-size: 250%, 250% !important;
   color: white;
 
 }
