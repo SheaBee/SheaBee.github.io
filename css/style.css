@@ -431,7 +431,7 @@ background: linear-gradient(
   position: relative;
 }
 .SheaBee {
-    background: url('../img/SheaBeeSmall.png') bottom no-repeat;
+    background: url('../img/Logo.png') bottom no-repeat;
     display: inline-block;
     background-size: contain;
     margin-top: -150px !important;
