@@ -225,11 +225,11 @@ a:active {
 .WorldFoods::before{
   background-image: url('../img/WorldFoods.png');
   background-repeat: no-repeat;
-  background-size: 150px, 75%;
+  background-size: 75%, 50%;
   display: inline-block !important;
   float: left;
-  background-position: 30%, 0;
-  height: 150px;
+  background-position: 0;
+  height: 200px;
   width: 50% !important;
   content: "";
   position: relative;
