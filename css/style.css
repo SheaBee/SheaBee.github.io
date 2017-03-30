@@ -223,7 +223,7 @@ a:active {
   position: relative;
 }
 .WorldFoods::before{
-  background-image: url('../img/WorldFoods.jpg');
+  background-image: url('../img/WorldFoods.png');
   background-repeat: no-repeat;
   background-size: 125px, 50%;
   display: inline-block !important;
@@ -338,7 +338,7 @@ a:active {
     content: "";
     position: relative;
   }
-  .Krugers,
+  .WorldFoods,
   .BeeThinking{
     font-weight: normal;
   }
