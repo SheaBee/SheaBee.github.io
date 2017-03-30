@@ -222,8 +222,8 @@ a:active {
   content: "";
   position: relative;
 }
-.Krugers::before{
-  background-image: url('../img/Krugers.jpg');
+.WorldFoods::before{
+  background-image: url('../img/WorldFoods.jpg');
   background-repeat: no-repeat;
   background-size: 125px, 50%;
   display: inline-block !important;
