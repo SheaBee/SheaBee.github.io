@@ -225,7 +225,7 @@ a:active {
 .WorldFoods::before{
   background-image: url('../img/WorldFoods.png');
   background-repeat: no-repeat;
-  background-size: 250px, 50%;
+  background-size: 250px, 50% !important;
   display: inline-block !important;
   float: left;
   background-position: 0;
@@ -330,6 +330,18 @@ a:active {
     background-image: url('../img/BeeThinkingSmall.png');
     background-repeat: no-repeat;
     background-size: 150px, 50%;
+    display: inline-block !important;
+    float: left;
+    background-position: 30%, 0;
+    height: 125px;
+    width: 50% !important;
+    content: "";
+    position: relative;
+  }
+  .WorldFoods::Before {
+    background-image: url('../img/WorldFoods.png');
+    background-repeat: no-repeat;
+    background-size: 75%, 50%;
     display: inline-block !important;
     float: left;
     background-position: 30%, 0;
