@@ -341,7 +341,7 @@ a:active {
   .WorldFoods::Before {
     background-image: url('../img/WorldFoods.png');
     background-repeat: no-repeat;
-    background-size: 75%, 50%;
+    background-size: 75%, 50% !important;
     display: inline-block !important;
     float: left;
     background-position: 30%, 0;
