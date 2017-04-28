@@ -269,7 +269,7 @@ a:active {
   background-size: cover;
 }
 
-.btn {
+.OrderNow {
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
   border-radius: 28px;
@@ -281,7 +281,7 @@ a:active {
   text-decoration: none;
 }
 
-.btn:hover {
+.OrderNow:hover {
   background: #3cb0fd;
   background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
   background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
