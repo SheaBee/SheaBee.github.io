@@ -234,8 +234,8 @@ a:active {
   position: relative;
   top: 25px;
 }
-.BeeThinking::before{
-  background-image: url('../img/BeeThinking.png');
+.TenderLoving::before{
+  background-image: url('../img/TenderLovingSmallLogo.jpg');
   background-repeat: no-repeat;
   background-size: 250px, 50%;
   display: inline-block;
@@ -371,8 +371,8 @@ a:active {
 }
 /* Media Queries */
 @media (max-width: 1044px) {
-  .BeeThinking::Before {
-    background-image: url('../img/BeeThinkingSmall.png');
+  .TenderLoving::Before {
+    background-image: url('../img/TenderLovingSmallLogo.jpg');
     background-repeat: no-repeat;
     background-size: 150px, 50%;
     display: inline-block !important;
