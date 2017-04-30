@@ -235,7 +235,7 @@ a:active {
   top: 25px;
 }
 .TenderLoving::before{
-  background-image: url('../img/TenderLovingSmallLogo.jpg');
+  background-image: url('../img/TenderLovingLargeLogo.jpg');
   background-repeat: no-repeat;
   background-size: 250px, 50%;
   display: inline-block;
